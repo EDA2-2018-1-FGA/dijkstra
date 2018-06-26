@@ -93,15 +93,3 @@ string distance(int **graph, int N, int O, int D){
     return to_string(dist[D]);
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
